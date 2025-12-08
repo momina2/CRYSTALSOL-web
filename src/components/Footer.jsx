@@ -73,7 +73,10 @@ const Footer = () => {
                   <span className="font-medium text-white">Email:</span> info@crystalsolutions.com
                 </p>
                 <p className="text-sm text-gray-400">
-                  <span className="font-medium text-white">Phone:</span> (123) 456-7890
+                  <span className="font-medium text-white">Phone:</span> +92 304 4770075
+                </p>
+                <p className="text-sm text-gray-400">
+                  <span className="font-medium text-white">Address</span> 15-D Al-Makkah Cly, Town ship, Lhr.
                 </p>
             </div>
           </div>
